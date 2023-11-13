@@ -2,12 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
-#KiCad Backup file directory
+#KiCad Backup files
 *-backups
-Hardware\*.kicad_prl
-Hardware\*.kicad_sch
-Hardware\fp-info-cache
-Hardware\~*.lck
+*.kicad_prl
+*.kicad_sch
+fp-info-cache
+~*.lck
 
 #Eagle Backup files
 *.s#?

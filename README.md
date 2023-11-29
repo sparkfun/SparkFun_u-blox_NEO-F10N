@@ -1,9 +1,9 @@
-SparkFun GNSS Breakout L1/L5 - NEO-F10N
+SparkFun GNSS L1/L5 Breakout- NEO-F10N
 ========================================
 
-[![SparkFun GNSS Breakout L1/L5 - NEO-F10N]()]()
+[![SparkFun GNSS L1/L5 Breakout - NEO-F10N]()]()
 
-[*SparkFun GNSS Breakout L1/L5 - NEO-F10N (GPS-?????)*]()
+[*SparkFun GNSS L1/L5 Breakout - NEO-F10N (GPS-?????)*]()
 
 
 Repository Contents

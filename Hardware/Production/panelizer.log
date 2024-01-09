@@ -1,0 +1,12 @@
+2024-01-05 19:16:23,509 - panelizer_logger - INFO - Running Panelizer
+2024-01-05 19:16:23,515 - panelizer_logger - INFO - ['--panelx', '177.800000', '--panely', '101.600000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '2.540000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialslr']
+2024-01-05 19:16:23,523 - panelizer_logger - INFO - PANELIZER START: 2024-01-05T19:16:23.523371
+2024-01-05 19:16:28,132 - panelizer_logger - INFO - 
+START: 2024-01-05T19:16:23.523371
+Board saved by user.
+
+Board: C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.kicad_pcb
+Board dimensions: 50.80 x 38.10 mm.
+You can fit 3 x 2 boards on the panel.
+
+2024-01-05 19:16:28,170 - panelizer_logger - INFO - Panelizer complete

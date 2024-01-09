@@ -1,0 +1,27 @@
+2024-01-05 19:16:32,490 - cammer_logger - INFO - Running CAMmer
+2024-01-05 19:16:32,494 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2024-01-05 19:16:32,494 - cammer_logger - INFO - CAMMER START: 2024-01-05T19:16:32.494833
+2024-01-05 19:18:27,552 - cammer_logger - INFO - Running CAMmer
+2024-01-05 19:18:27,554 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2024-01-05 19:18:27,554 - cammer_logger - INFO - CAMMER START: 2024-01-05T19:18:27.554892
+2024-01-05 19:18:28,625 - cammer_logger - INFO - 
+START: 2024-01-05T19:18:27.554892
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTL
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-F_Cu.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTL
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBL
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-B_Cu.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBL
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTP
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-F_Paste.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTP
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBP
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-B_Paste.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBP
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTO
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-F_Silkscreen.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTO
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBO
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-B_Silkscreen.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBO
+Deleting existing C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTS
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-F_Mask.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GTS
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-B_Mask.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GBS
+Renaming C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized-Edge_Cuts.gbr to C:/Users/New Lenny/Dropbox/Projects/SparkFun_u-blox_NEO-F10N/Hardware\Production\SparkFun_NEO-F10N_panelized.GKO
+Drill report: C:\Users\New Lenny\Dropbox\Projects\SparkFun_u-blox_NEO-F10N\Hardware\Production\drill_report.rpt
+
+2024-01-05 19:18:28,634 - cammer_logger - INFO - CAMmer complete

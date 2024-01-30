@@ -1,9 +1,9 @@
-SparkFun GNSS L1/L5 Breakout- NEO-F10N
+SparkFun GNSS L1/L5 Breakout- NEO-F10N, SMA
 ========================================
 
-[![SparkFun GNSS L1/L5 Breakout - NEO-F10N]()]()
+[![SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA]()](https://www.sparkfun.com/products/24114)
 
-[*SparkFun GNSS L1/L5 Breakout - NEO-F10N (GPS-?????)*]()
+[*SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA (GPS-24114)*](https://www.sparkfun.com/products/24114)
 
 
 Repository Contents
@@ -14,11 +14,11 @@ Repository Contents
 Documentation
 --------------
 * **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)** - Arduino library for u-blox modules.
-* **[Hookup Guide]** - Basic hookup guide for the NEO-F10N breakout board.
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_u-blox_NEO-F10N)** - Basic hookup guide for the NEO-F10N breakout board.
 
 Product Versions
 ----------------
-* [GPS-???]https://www.sparkfun.com/products/ - Initial release
+* [GPS-24114](https://www.sparkfun.com/products/24114) - Initial release
 
 Version History
 ---------------

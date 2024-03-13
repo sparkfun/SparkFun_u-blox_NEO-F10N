@@ -467,7 +467,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SparkFun_NEO-F10N.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

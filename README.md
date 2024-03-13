@@ -1,7 +1,7 @@
 SparkFun GNSS L1/L5 Breakout- NEO-F10N, SMA
 ========================================
 
-[![SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA]()](https://www.sparkfun.com/products/24114)
+[![SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA](https://cdn.sparkfun.com/r/600-600/assets/parts/2/4/4/4/1/GPS-24114-NEO-F10N-Feature.jpg)](https://www.sparkfun.com/products/24114)
 
 [*SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA (GPS-24114)*](https://www.sparkfun.com/products/24114)
 
@@ -27,9 +27,9 @@ Version History
 License Information
 -------------------
 
-This product is _**open source**_! 
+This product is _**open source**_!
 
-Please review the LICENSE.md file for license information. 
+Please review the LICENSE.md file for license information.
 
 If you have any questions or concerns on licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=152).
 

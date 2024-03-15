@@ -20,7 +20,7 @@ To do this using the Arduino Library, users can add   `myGNSS.setVal8(UBLOX_CFG_
 
   myGNSS.setMeasurementRate(5000); //Produce one solution every five seconds (NAV SIG produces a _lot_ of data!)
 
-  myGNSS.setVal8(UBLOX_CFG_SIGNAL_GPS_L5_ENA, 1); // Make sure the GPS L5 band is enabled (needed on the NEO-F10N)
+  myGNSS.setVal8(UBLOX_CFG_SIGNAL_GPS_L5_ENA, 1); // Make sure the GPS L5 band is enabled (needed on the NEO-F9P)
 
   myGNSS.setGPSL5HealthOverride(true); // Mark L5 signals as healthy - store in RAM and BBR
 

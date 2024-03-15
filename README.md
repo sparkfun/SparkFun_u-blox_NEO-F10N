@@ -13,7 +13,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)** - Arduino library for u-blox modules.
+* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3)** - Arduino library for u-blox modules.
 * **[Hookup Guide](https://docs.sparkfun.com/SparkFun_u-blox_NEO-F10N)** - Basic hookup guide for the NEO-F10N breakout board.
 
 Product Versions

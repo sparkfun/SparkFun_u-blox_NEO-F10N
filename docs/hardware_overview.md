@@ -83,7 +83,7 @@ The module can achieve meter-level accuracy with a satellite lock. Below are a f
 
 ### Power
 
-There are a variety of power and power-related nets broken out on the USB conenctor and through hole pads. **5V** power from the USB C Connector or PTH is regulated down to **3.3V** with the AP2112K 3.3V/600mA voltage regulator. The logic levels for the NEO-F10N is **3.3V** for the I/O pins.
+There are a variety of power and power-related nets broken out on the USB connector and through hole pads. **5V** power from the USB C Connector or PTH is regulated down to **3.3V** with the AP2112K 3.3V/600mA voltage regulator. The logic levels for the NEO-F10N is **3.3V** for the I/O pins.
 
 * **5V** &mdash; Power from the USB C connector's VBUS provides power to the 5V bus. The 5V net is also connected to the edge PTH pin labeled as **5V** and the input of the 3.3V voltage regulator. Built-in Schottky diodes are included on the VBUS and 5V nets for protection. Make sure that power you provide to this pin does not exceed 6 volts.
 * **3V3** &mdash; This connects to the 3.3V net. Both sides of the board includes a 3.3V pin (labeled as 3V3) that should only be provided with a clean 3.3V power signal.

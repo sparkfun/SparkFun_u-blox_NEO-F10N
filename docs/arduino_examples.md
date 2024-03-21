@@ -19,8 +19,26 @@ If you have not already, select your Board (in this case the **SparkFun ESP32 Io
 
 
 
+### Example 12: Use UART
+
+!!! note
+    Make sure that you have the latest version of the SparkFun u-blox GNSS v3 Arduino Library when using the "Use UART" example. You will need a microcontroller (e.g. ESP32) with enough memory to compile this example.  Depending on the microcontroller that you use, you may also need to adjust the defined serial port from `Serial2` to `Serial1`.
+
+This example shows how to output your coordinates and satellites in view through the Serial UART. Head to the example in the **NEO-10N** folder (located in **File** **Examples** > **SparkFun u-blox GNSS V3** > **Basics** > **Example12_UseUart**).
+
+If you have not already, select your Board (in this case the **SparkFun ESP32 IoT RedBoard**), and associated COM port. Upload the code to the board and set the [Arduino Serial Monitor](https://learn.sparkfun.com/tutorials/terminal-basics/all#arduino-serial-monitor-windows-mac-linux) to **115200** baud. Once there are enough satellites in view you should be able to see your coordinates and the number of satellites in view!
+
+<div style="text-align: center;">
+  <table>
+    <tr style="vertical-align:middle;">
+     <td style="text-align: center; vertical-align: middle;"><a href="../assets/img/Arduino_NEO-F10N_IoT_RedBoard_ESP32_Output_Coordinates_SIV.JPG"><img src="../assets/img/Arduino_NEO-F10N_IoT_RedBoard_ESP32_Output_Coordinates_SIV.JPG" width="600px" height="600px" alt="Coordinates Shown in the Arduino Serial Monitor with the NEO-F10N "></a></td>
+    </tr>
+  </table>
+</div>
+
+
 ### More Examples!
 
-Now that you got it up and running, check out the other examples located in the ZED-F10N folder!
+Now that you got it up and running, check out the SparkFun u-blox Arduino Library for other UART examples!
 
-<div style="text-align: center"><a href="https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3/tree/main/examples/NEO-F10N" target="github_gnss_v3" class="md-button">SparkFun_u-blox_GNSS_v3 > examples > NEO-F10N</a></div>
+<div style="text-align: center"><a href="https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3/tree/main/examples" target="github_gnss_v3" class="md-button">SparkFun_u-blox_GNSS_v3 > examples</a></div>

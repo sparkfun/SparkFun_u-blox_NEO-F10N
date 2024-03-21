@@ -24,6 +24,10 @@ The [SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA](https://www.sparkfun.com/prod
 </div>
 </center>
 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lrZWDXNU0OE?si=9YpjbiSuIA6uKVQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 This breakout supports concurrent reception of three GNSS constellations: GPS, Galileo, and BeiDou. The proprietary dual-band [multipath mitigation technology](https://www.u-blox.com/en/technologies/multipath-mitigation) from the u-blox F10 allows the module to choose the best signals from both bands to achieve a significantly better position accuracy in challenging urban environments than with the L1 band alone.
 
 What's different from other u-blox modules is that the NEO-F10N module only supports one serial UART communication port. U-blox based GPS products are configurable using the popular, but dense, windows program called u-center. Plenty of different functions can be configured on the NEO-F10N: baud rates, update rates, spoofing detection, external interrupts, SBAS, etc. We've included a few basic UART examples with our SparkFun Arduino Library to get started.

@@ -8,8 +8,20 @@ SparkFun GNSS L1/L5 Breakout- NEO-F10N, SMA
 
 Repository Contents
 -------------------
-* **/Documents** - Datasheets, additional product information
+* **.github/workflows** - YAML files used for GitHub Actions and GitHub Pages/mkdocs
 * **/Hardware** - KiCad design files (.brd, .sch)
+  * **/Production** - Production panel files (.brd)
+* **/docs** - Online documentation files
+  * **/assets** - Folder containing all the file assets used for product documentation
+    * **/board_files** - Copy of design files used for product documentation
+    * **/component_documentation** - Datasheets and manuals for hardware components
+    * **/img** - Images for product documentation
+  * **/github** - Files stating how to contribute and filing issues used for product documentation
+  * **/javascript** - Folder containing custom javascript used for product documentation
+  * **/stylesheet** - Folder containing CSS files used for product documentation
+* **/overrides** - Customization files used for product documentation
+  * **/.icons** - Icons used for GitHub used for product documentation
+  * **./partials** - Used for product documentation
 
 Documentation
 --------------

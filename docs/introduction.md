@@ -47,7 +47,7 @@ To follow along with this tutorial, you will need the following materials at a m
 * 1x [SparkFun IoT RedBoard - ESP32 Development Board [WRL-19177]](https://www.sparkfun.com/products/19177)
 
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/24114">
@@ -134,7 +134,7 @@ Depending on your setup, you may need the following mounting hardware. As includ
 
 -->
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/23814">
       <figure markdown>
@@ -178,7 +178,7 @@ For users that decide to use the SPK6618H multi-band antenna as an alternative, 
 
 -->
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 -   <a href="https://www.sparkfun.com/products/21801">
       <figure markdown>
@@ -252,7 +252,7 @@ For users that require radios to send data wirelessly, you could use the followi
 * [SparkFun LoRaSerial Kit - 915MHz (Enclosed) [WRL-20029]](https://www.sparkfun.com/products/20029)
 -->
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/23287">
       <figure markdown>
@@ -314,7 +314,7 @@ You will need a soldering iron, solder, and [general soldering accessories](http
 * [Hobby Knife [TOL-09200]](https://www.sparkfun.com/products/9200)
 -->
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 
 -   <a href="https://www.sparkfun.com/products/24063">
       <figure markdown>
@@ -418,7 +418,7 @@ For those using radios to connect a base station and rover together, you will ne
 * [Jumper Wires Premium 6" M/M Pack of 10 [PRT-08431]](https://www.sparkfun.com/products/8431)
 -->
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/12002">
       <figure markdown>
@@ -512,7 +512,7 @@ For those using radios to connect a base station and rover together, you will ne
 
 If you aren’t familiar with the following concepts, we also recommend checking out a few of these tutorials before continuing.
 
-<div class="grid cards hide col-4" markdown>
+<div class="grid cards col-4" markdown>
 <!-- ----------WHITE SPACE BETWEEN GRID CARDS---------- -->
 -   <a href="https://learn.sparkfun.com/tutorials/9">
       <figure markdown>

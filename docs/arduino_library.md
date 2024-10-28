@@ -12,8 +12,7 @@
 
 SparkFun has written a library to work with the u-blox NEO-F10N. You can obtain this library through the Arduino Library Manager by searching for "**SparkFun u-blox GNSS v3**". Find the one written by SparkFun Electronics and install the latest version. Users who prefer to manually install the library can get it from the [GitHub Repository](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3) or download the .ZIP by clicking the button below:
 
-<div style="text-align: center"><a href="https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3/archive/refs/heads/main.zip" class="md-button">SparkFun u-blox GNSS Arduino Library - v3
- (ZIP)</a></div>
+<div style="text-align: center"><a href="https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3/archive/refs/heads/main.zip" class="md-button">SparkFun u-blox GNSS Arduino Library - v3 (ZIP)</a></div>
 
  Once you have the library installed checkout the various examples! There are several examples in the library that cover more than just the NEO-F10N. Note that some examples will not apply depending on the modules features. We will be looking at the [NEO-F10N folder](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3/tree/main/examples/NEO-F10N).
 

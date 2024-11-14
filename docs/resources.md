@@ -4,6 +4,9 @@ Now that you've successfully got your SparkFun GNSS-RTK L1/L5 Breakout - NEO-F10
 
 * [Schematic (PDF)](../assets/board_files/SparkFun_GNSS_L1_L5_BreakoutNEO-F10N_Schematic_V10.pdf)
 * [KiCad Files (ZIP)](../assets/board_files/SparkFun_NEO-F10N_v10.zip)
+* 3D model
+    * [STEP File](../assets/3d_model/SparkFun_NEO-F10N_3D_model.step)
+    * [STL File](../assets/3d_model/SparkFun_NEO-F10N_3D_model.stl)
 * [Board Dimensions (PNG)](../assets/img/SparkFun_NEO-F10N-Board_Dimensions.jpg)
 * [Building a GPS System](https://www.sparkfun.com/gps)
 * [Arduino Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3)

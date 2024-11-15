@@ -277,10 +277,6 @@ If you flip the board over, you will notice a few jumper pads.
 <div style="text-align: center">
     <a href="../assets/3d_model/SparkFun_NEO-F10N_3D_model.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
 </div>
-<br />
-<div style="text-align: center">
-    <a href="../assets/3d_model/SparkFun_NEO-F10N_3D_model.stl" target="stl_file" class="md-button">Click Here for the STL File</a>
-</div>
 
 
 

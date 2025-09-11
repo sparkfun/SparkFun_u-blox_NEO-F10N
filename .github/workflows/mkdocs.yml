@@ -21,13 +21,16 @@ jobs:
         run: pip install mkdocs-monorepo-plugin mkdocs-redirects mkdocs-with-pdf weasyprint mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2
 
       - name: Set up build cache
-        uses: actions/cache@v2
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
         with:
-          key: ${{ github.ref }}
+          key: mkdocs-material-${{ env.cache_id }}
           path: .cache
+          restore-keys: |
+            mkdocs-material-
 
       - name: Install Insiders build
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+          MKDOCS_TOKEN: ${{ secrets.MKDOCS_SECRET }}
+        run: pip install git+https://${MKDOCS_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force

@@ -3,29 +3,18 @@
 
 The [SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA](https://www.sparkfun.com/products/24114) is a standard precision GNSS board with meter-level positional accuracy. The NEO-F10N uses the L1/L5 bands instead of the more commonly seen L1/L2 bands. Utilizing the L5 band, the NEO-F10N delivers improved performance under challenging urban environments the L5 signals fall within the protected ARNS (aeronautical radio navigation service) frequency band. This band is less subject to RF interference.
 
-<center>
-<div class="grid cards" style="width:500px;" markdown>
+<div class="grid cards desc" markdown>
 
--   <a href="https://www.sparkfun.com/products/24114">
-      <figure markdown>
-        <img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/4/4/4/1/GPS-24114-NEO-F10N-Feature.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA">
-      </figure>
-    </a>
+- <figure markdown>
+    [![SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA (GPS-24114)](https://cdn.sparkfun.com/r/600-600/assets/parts/2/4/4/4/1/GPS-24114-NEO-F10N-Feature.jpg){ width=90% }](https://www.sparkfun.com/sparkfun-gnss-l1-l5-breakout-neo-f10n-sma.html)
+		</figure>
 
-    ---
+    <center>
+    [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/sparkfun-gnss-l1-l5-breakout-neo-f10n-sma.html){ .md-button .md-button--primary }
+    </center>
 
-    <a href="https://www.sparkfun.com/products/24114">
-      <b>SparkFun GNSS L1/L5 Breakout - NEO-F10N, SMA</b>
-      <br />
-      GPS-24114
-      <br />
-      <center>[Purchase from SparkFun :fontawesome-solid-cart-plus:](https://www.sparkfun.com/products/24114){ .md-button .md-button--primary }</center>
-    </a>
-</div>
-</center>
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/lrZWDXNU0OE?si=9YpjbiSuIA6uKVQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lrZWDXNU0OE?si=9YpjbiSuIA6uKVQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This breakout supports concurrent reception of three GNSS constellations: GPS, Galileo, and BeiDou. The proprietary dual-band [multipath mitigation technology](https://www.u-blox.com/en/technologies/multipath-mitigation) from the u-blox F10 allows the module to choose the best signals from both bands to achieve a significantly better position accuracy in challenging urban environments than with the L1 band alone.
